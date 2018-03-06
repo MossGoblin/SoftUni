@@ -1,0 +1,11 @@
+D:\Codee\SOFTUNI\TECH MODULE JAN 2018\Programming Fundamentals\EXAM\EXAM\03 Star Enigma\bin\Debug\netcoreapp2.0\03 Star Enigma.deps.json
+D:\Codee\SOFTUNI\TECH MODULE JAN 2018\Programming Fundamentals\EXAM\EXAM\03 Star Enigma\bin\Debug\netcoreapp2.0\03 Star Enigma.runtimeconfig.json
+D:\Codee\SOFTUNI\TECH MODULE JAN 2018\Programming Fundamentals\EXAM\EXAM\03 Star Enigma\bin\Debug\netcoreapp2.0\03 Star Enigma.runtimeconfig.dev.json
+D:\Codee\SOFTUNI\TECH MODULE JAN 2018\Programming Fundamentals\EXAM\EXAM\03 Star Enigma\bin\Debug\netcoreapp2.0\03 Star Enigma.dll
+D:\Codee\SOFTUNI\TECH MODULE JAN 2018\Programming Fundamentals\EXAM\EXAM\03 Star Enigma\bin\Debug\netcoreapp2.0\03 Star Enigma.pdb
+D:\Codee\SOFTUNI\TECH MODULE JAN 2018\Programming Fundamentals\EXAM\EXAM\03 Star Enigma\obj\Debug\netcoreapp2.0\03 Star Enigma.csprojResolveAssemblyReference.cache
+D:\Codee\SOFTUNI\TECH MODULE JAN 2018\Programming Fundamentals\EXAM\EXAM\03 Star Enigma\obj\Debug\netcoreapp2.0\03 Star Enigma.csproj.CoreCompileInputs.cache
+D:\Codee\SOFTUNI\TECH MODULE JAN 2018\Programming Fundamentals\EXAM\EXAM\03 Star Enigma\obj\Debug\netcoreapp2.0\03 Star Enigma.AssemblyInfoInputs.cache
+D:\Codee\SOFTUNI\TECH MODULE JAN 2018\Programming Fundamentals\EXAM\EXAM\03 Star Enigma\obj\Debug\netcoreapp2.0\03 Star Enigma.AssemblyInfo.cs
+D:\Codee\SOFTUNI\TECH MODULE JAN 2018\Programming Fundamentals\EXAM\EXAM\03 Star Enigma\obj\Debug\netcoreapp2.0\03 Star Enigma.dll
+D:\Codee\SOFTUNI\TECH MODULE JAN 2018\Programming Fundamentals\EXAM\EXAM\03 Star Enigma\obj\Debug\netcoreapp2.0\03 Star Enigma.pdb

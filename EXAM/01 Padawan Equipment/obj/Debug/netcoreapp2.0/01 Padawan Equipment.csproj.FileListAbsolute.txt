@@ -1,0 +1,10 @@
+D:\Codee\SOFTUNI\TECH MODULE JAN 2018\Programming Fundamentals\EXAM\EXAM\01 Padawan Equipment\bin\Debug\netcoreapp2.0\01 Padawan Equipment.deps.json
+D:\Codee\SOFTUNI\TECH MODULE JAN 2018\Programming Fundamentals\EXAM\EXAM\01 Padawan Equipment\bin\Debug\netcoreapp2.0\01 Padawan Equipment.runtimeconfig.json
+D:\Codee\SOFTUNI\TECH MODULE JAN 2018\Programming Fundamentals\EXAM\EXAM\01 Padawan Equipment\bin\Debug\netcoreapp2.0\01 Padawan Equipment.runtimeconfig.dev.json
+D:\Codee\SOFTUNI\TECH MODULE JAN 2018\Programming Fundamentals\EXAM\EXAM\01 Padawan Equipment\bin\Debug\netcoreapp2.0\01 Padawan Equipment.dll
+D:\Codee\SOFTUNI\TECH MODULE JAN 2018\Programming Fundamentals\EXAM\EXAM\01 Padawan Equipment\bin\Debug\netcoreapp2.0\01 Padawan Equipment.pdb
+D:\Codee\SOFTUNI\TECH MODULE JAN 2018\Programming Fundamentals\EXAM\EXAM\01 Padawan Equipment\obj\Debug\netcoreapp2.0\01 Padawan Equipment.csproj.CoreCompileInputs.cache
+D:\Codee\SOFTUNI\TECH MODULE JAN 2018\Programming Fundamentals\EXAM\EXAM\01 Padawan Equipment\obj\Debug\netcoreapp2.0\01 Padawan Equipment.AssemblyInfoInputs.cache
+D:\Codee\SOFTUNI\TECH MODULE JAN 2018\Programming Fundamentals\EXAM\EXAM\01 Padawan Equipment\obj\Debug\netcoreapp2.0\01 Padawan Equipment.AssemblyInfo.cs
+D:\Codee\SOFTUNI\TECH MODULE JAN 2018\Programming Fundamentals\EXAM\EXAM\01 Padawan Equipment\obj\Debug\netcoreapp2.0\01 Padawan Equipment.dll
+D:\Codee\SOFTUNI\TECH MODULE JAN 2018\Programming Fundamentals\EXAM\EXAM\01 Padawan Equipment\obj\Debug\netcoreapp2.0\01 Padawan Equipment.pdb

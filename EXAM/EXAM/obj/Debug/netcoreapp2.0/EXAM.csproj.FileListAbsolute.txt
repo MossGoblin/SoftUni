@@ -1,0 +1,11 @@
+D:\Codee\SOFTUNI\TECH MODULE JAN 2018\Programming Fundamentals\EXAM\EXAM\EXAM\bin\Debug\netcoreapp2.0\EXAM.deps.json
+D:\Codee\SOFTUNI\TECH MODULE JAN 2018\Programming Fundamentals\EXAM\EXAM\EXAM\bin\Debug\netcoreapp2.0\EXAM.runtimeconfig.json
+D:\Codee\SOFTUNI\TECH MODULE JAN 2018\Programming Fundamentals\EXAM\EXAM\EXAM\bin\Debug\netcoreapp2.0\EXAM.runtimeconfig.dev.json
+D:\Codee\SOFTUNI\TECH MODULE JAN 2018\Programming Fundamentals\EXAM\EXAM\EXAM\bin\Debug\netcoreapp2.0\EXAM.dll
+D:\Codee\SOFTUNI\TECH MODULE JAN 2018\Programming Fundamentals\EXAM\EXAM\EXAM\bin\Debug\netcoreapp2.0\EXAM.pdb
+D:\Codee\SOFTUNI\TECH MODULE JAN 2018\Programming Fundamentals\EXAM\EXAM\EXAM\obj\Debug\netcoreapp2.0\EXAM.csprojResolveAssemblyReference.cache
+D:\Codee\SOFTUNI\TECH MODULE JAN 2018\Programming Fundamentals\EXAM\EXAM\EXAM\obj\Debug\netcoreapp2.0\EXAM.csproj.CoreCompileInputs.cache
+D:\Codee\SOFTUNI\TECH MODULE JAN 2018\Programming Fundamentals\EXAM\EXAM\EXAM\obj\Debug\netcoreapp2.0\EXAM.AssemblyInfoInputs.cache
+D:\Codee\SOFTUNI\TECH MODULE JAN 2018\Programming Fundamentals\EXAM\EXAM\EXAM\obj\Debug\netcoreapp2.0\EXAM.AssemblyInfo.cs
+D:\Codee\SOFTUNI\TECH MODULE JAN 2018\Programming Fundamentals\EXAM\EXAM\EXAM\obj\Debug\netcoreapp2.0\EXAM.dll
+D:\Codee\SOFTUNI\TECH MODULE JAN 2018\Programming Fundamentals\EXAM\EXAM\EXAM\obj\Debug\netcoreapp2.0\EXAM.pdb

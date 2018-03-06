@@ -1,0 +1,11 @@
+D:\Codee\SOFTUNI\TECH MODULE JAN 2018\Programming Fundamentals\EXAM\EXAM\04 Force Book\bin\Debug\netcoreapp2.0\04 Force Book.deps.json
+D:\Codee\SOFTUNI\TECH MODULE JAN 2018\Programming Fundamentals\EXAM\EXAM\04 Force Book\bin\Debug\netcoreapp2.0\04 Force Book.runtimeconfig.json
+D:\Codee\SOFTUNI\TECH MODULE JAN 2018\Programming Fundamentals\EXAM\EXAM\04 Force Book\bin\Debug\netcoreapp2.0\04 Force Book.runtimeconfig.dev.json
+D:\Codee\SOFTUNI\TECH MODULE JAN 2018\Programming Fundamentals\EXAM\EXAM\04 Force Book\bin\Debug\netcoreapp2.0\04 Force Book.dll
+D:\Codee\SOFTUNI\TECH MODULE JAN 2018\Programming Fundamentals\EXAM\EXAM\04 Force Book\bin\Debug\netcoreapp2.0\04 Force Book.pdb
+D:\Codee\SOFTUNI\TECH MODULE JAN 2018\Programming Fundamentals\EXAM\EXAM\04 Force Book\obj\Debug\netcoreapp2.0\04 Force Book.csprojResolveAssemblyReference.cache
+D:\Codee\SOFTUNI\TECH MODULE JAN 2018\Programming Fundamentals\EXAM\EXAM\04 Force Book\obj\Debug\netcoreapp2.0\04 Force Book.csproj.CoreCompileInputs.cache
+D:\Codee\SOFTUNI\TECH MODULE JAN 2018\Programming Fundamentals\EXAM\EXAM\04 Force Book\obj\Debug\netcoreapp2.0\04 Force Book.AssemblyInfoInputs.cache
+D:\Codee\SOFTUNI\TECH MODULE JAN 2018\Programming Fundamentals\EXAM\EXAM\04 Force Book\obj\Debug\netcoreapp2.0\04 Force Book.AssemblyInfo.cs
+D:\Codee\SOFTUNI\TECH MODULE JAN 2018\Programming Fundamentals\EXAM\EXAM\04 Force Book\obj\Debug\netcoreapp2.0\04 Force Book.dll
+D:\Codee\SOFTUNI\TECH MODULE JAN 2018\Programming Fundamentals\EXAM\EXAM\04 Force Book\obj\Debug\netcoreapp2.0\04 Force Book.pdb

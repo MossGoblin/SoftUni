@@ -1,0 +1,10 @@
+D:\Codee\SOFTUNI\TECH MODULE JAN 2018\Programming Fundamentals\EXAM\EXAM\04 Force Book\bin\Debug\netcoreapp2.0\04 Force Book -- 90.deps.json
+D:\Codee\SOFTUNI\TECH MODULE JAN 2018\Programming Fundamentals\EXAM\EXAM\04 Force Book\bin\Debug\netcoreapp2.0\04 Force Book -- 90.runtimeconfig.json
+D:\Codee\SOFTUNI\TECH MODULE JAN 2018\Programming Fundamentals\EXAM\EXAM\04 Force Book\bin\Debug\netcoreapp2.0\04 Force Book -- 90.runtimeconfig.dev.json
+D:\Codee\SOFTUNI\TECH MODULE JAN 2018\Programming Fundamentals\EXAM\EXAM\04 Force Book\bin\Debug\netcoreapp2.0\04 Force Book -- 90.dll
+D:\Codee\SOFTUNI\TECH MODULE JAN 2018\Programming Fundamentals\EXAM\EXAM\04 Force Book\bin\Debug\netcoreapp2.0\04 Force Book -- 90.pdb
+D:\Codee\SOFTUNI\TECH MODULE JAN 2018\Programming Fundamentals\EXAM\EXAM\04 Force Book\obj\Debug\netcoreapp2.0\04 Force Book -- 90.csproj.CoreCompileInputs.cache
+D:\Codee\SOFTUNI\TECH MODULE JAN 2018\Programming Fundamentals\EXAM\EXAM\04 Force Book\obj\Debug\netcoreapp2.0\04 Force Book -- 90.AssemblyInfoInputs.cache
+D:\Codee\SOFTUNI\TECH MODULE JAN 2018\Programming Fundamentals\EXAM\EXAM\04 Force Book\obj\Debug\netcoreapp2.0\04 Force Book -- 90.AssemblyInfo.cs
+D:\Codee\SOFTUNI\TECH MODULE JAN 2018\Programming Fundamentals\EXAM\EXAM\04 Force Book\obj\Debug\netcoreapp2.0\04 Force Book -- 90.dll
+D:\Codee\SOFTUNI\TECH MODULE JAN 2018\Programming Fundamentals\EXAM\EXAM\04 Force Book\obj\Debug\netcoreapp2.0\04 Force Book -- 90.pdb

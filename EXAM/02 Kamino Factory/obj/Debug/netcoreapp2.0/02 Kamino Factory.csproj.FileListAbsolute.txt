@@ -1,0 +1,11 @@
+D:\Codee\SOFTUNI\TECH MODULE JAN 2018\Programming Fundamentals\EXAM\EXAM\02 Kamino Factory\bin\Debug\netcoreapp2.0\02 Kamino Factory.deps.json
+D:\Codee\SOFTUNI\TECH MODULE JAN 2018\Programming Fundamentals\EXAM\EXAM\02 Kamino Factory\bin\Debug\netcoreapp2.0\02 Kamino Factory.runtimeconfig.json
+D:\Codee\SOFTUNI\TECH MODULE JAN 2018\Programming Fundamentals\EXAM\EXAM\02 Kamino Factory\bin\Debug\netcoreapp2.0\02 Kamino Factory.runtimeconfig.dev.json
+D:\Codee\SOFTUNI\TECH MODULE JAN 2018\Programming Fundamentals\EXAM\EXAM\02 Kamino Factory\bin\Debug\netcoreapp2.0\02 Kamino Factory.dll
+D:\Codee\SOFTUNI\TECH MODULE JAN 2018\Programming Fundamentals\EXAM\EXAM\02 Kamino Factory\bin\Debug\netcoreapp2.0\02 Kamino Factory.pdb
+D:\Codee\SOFTUNI\TECH MODULE JAN 2018\Programming Fundamentals\EXAM\EXAM\02 Kamino Factory\obj\Debug\netcoreapp2.0\02 Kamino Factory.csproj.CoreCompileInputs.cache
+D:\Codee\SOFTUNI\TECH MODULE JAN 2018\Programming Fundamentals\EXAM\EXAM\02 Kamino Factory\obj\Debug\netcoreapp2.0\02 Kamino Factory.AssemblyInfoInputs.cache
+D:\Codee\SOFTUNI\TECH MODULE JAN 2018\Programming Fundamentals\EXAM\EXAM\02 Kamino Factory\obj\Debug\netcoreapp2.0\02 Kamino Factory.AssemblyInfo.cs
+D:\Codee\SOFTUNI\TECH MODULE JAN 2018\Programming Fundamentals\EXAM\EXAM\02 Kamino Factory\obj\Debug\netcoreapp2.0\02 Kamino Factory.dll
+D:\Codee\SOFTUNI\TECH MODULE JAN 2018\Programming Fundamentals\EXAM\EXAM\02 Kamino Factory\obj\Debug\netcoreapp2.0\02 Kamino Factory.pdb
+D:\Codee\SOFTUNI\TECH MODULE JAN 2018\Programming Fundamentals\EXAM\EXAM\02 Kamino Factory\obj\Debug\netcoreapp2.0\02 Kamino Factory.csprojResolveAssemblyReference.cache
